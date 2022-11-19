@@ -25,7 +25,7 @@ int	main()
 
 		// ------
 		// The function tw_get_next_line is a implementation of get_next_line
-		// you can pass the training wheels functions or your own
+		// you can pass the training wheels functions (check image for what they are doing) or your own
 		// you can comment that line and uncomment the one below.
 		// Note: don't use both function calls at the same time.
 		// ------
